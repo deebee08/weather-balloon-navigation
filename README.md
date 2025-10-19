@@ -1,3 +1,16 @@
+
+# Balloon Outreach Simulation
+
+This repository contains a balloon simulation environment for testing navigation strategies.
+
+## Running in Google Colab
+
+To run the demo notebooks in Google Colab, follow these steps:
+
+1. Open [Google Colab](https://colab.research.google.com)
+2. Under **Open notebook** click on **Github >**
+3. Locate the relevant demo notebook on the `main` branch
+
 ## Note on Contributions
 
 This repository was originally forked from [sdean-group/balloon-outreach](https://github.com/sdean-group/balloon-outreach).  
@@ -15,15 +28,3 @@ During my **Cornell summer research program**, I worked extensively with this en
 ### General Impact
 Through this work, I strengthened my understanding of **control optimization, environmental simulation, and AI-based trajectory planning**, bridging theoretical knowledge with real-world modeling and visualization. These projects deepened my interest in combining **AI and environmental systems** for research and practical applications.
 
-
-# Balloon Outreach Simulation
-
-This repository contains a balloon simulation environment for testing navigation strategies.
-
-## Running in Google Colab
-
-To run the demo notebooks in Google Colab, follow these steps:
-
-1. Open [Google Colab](https://colab.research.google.com)
-2. Under **Open notebook** click on **Github >**
-3. Locate the relevant demo notebook on the `main` branch
